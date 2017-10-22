@@ -1,0 +1,5 @@
+Replace <ENTER-YOUR-TOKEN-HERE> with the application token generated from
+Eventbrite website to pull data from your account.
+
+Refer to below URL for getting authentication token:
+https://www.eventbrite.com/developer/v3/api_overview/authentication/
